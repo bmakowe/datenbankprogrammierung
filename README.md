@@ -1,4 +1,4 @@
-![![Hochschule Ravensburg-Weingarten]()](https://bitbucket.org/repo/kgoz8X/images/111065954-logo-hochschule-ravensburg-weingarten.gif)
+![![Hochschule Ravensburg-Weingarten]()](https://github.com/bmakowe/images/blob/master/hs-weingarten.gif)
 # **Datenbankprogrammierung SS16** 
 
 ***
