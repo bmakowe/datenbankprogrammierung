@@ -1,5 +1,5 @@
-![![Hochschule Ravensburg-Weingarten]()](https://github.com/bmakowe/images/blob/master/hs-weingarten.gif)
-# ** Datenbankprogrammierung SS16 ** 
+
+# **Datenbankprogrammierung SS16** 
 
 ***
 
